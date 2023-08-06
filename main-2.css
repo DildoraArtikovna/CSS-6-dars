@@ -1,0 +1,10 @@
+body{
+    background-color: white;
+}
+.cs{
+    width: 1000px;
+    height: 700px;
+    background: radial-gradient(red,yellow,green);
+    margin: 100px auto;
+    box-sizing: border-box;
+}
